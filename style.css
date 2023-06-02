@@ -8,12 +8,13 @@
 }
 
 body{
-    background-color: rgb(187, 116, 189);
+    
     background-image: url('pexels-ben-mack-6775241.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
     display: flex;
+    height: 100%;
     flex-direction: column;
     align-items: center;
     justify-content: center;
